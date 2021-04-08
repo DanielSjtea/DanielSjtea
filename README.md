@@ -6,10 +6,10 @@ I am Daniel and I'm always on the lookout for learning opportunities and experie
 📫 Feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/daniel-seah/), or at danielseahjt@gmail.com
 
 ### About Me:
-- Penultimate year student at [National University of Singapore](https://www.nus.edu.sg/)
-- 🌱 Currently pursuing a Bachelors in Data Science and Analytics (Honours)
-- Product Manager Intern at [Shopee](https://sg.linkedin.com/company/shopee) (till Early May 2021)
-- 🔭 Founder and Lead Programmer of [Sliced Bread Studios](https://play.google.com/store/apps/developer?id=Sliced+Bread+Studios)
+- **Penultimate year** student at [National University of Singapore](https://www.nus.edu.sg/)
+- 🌱 Currently pursuing a **Bachelors in Data Science and Analytics (Honours)**
+- **Product Manager Intern** at [Shopee](https://sg.linkedin.com/company/shopee) (till Early May 2021)
+- 🔭 **Founder and Lead Programmer** of [Sliced Bread Studios](https://play.google.com/store/apps/developer?id=Sliced+Bread+Studios)
 
 ### Programming Languages:
 - Python
