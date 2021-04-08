@@ -1,5 +1,5 @@
 ### Hellos! I'm Daniel! 👋
-[![LinkedIn](/linkedin.svg)<img src="/linkedin.svg">](https://www.linkedin.com/in/daniel-seah/)
+[![LinkedIn](./images/linkedin.svg)<img src="./images/linkedin.svg">](https://www.linkedin.com/in/daniel-seah/)
 
 <!--
 **DanielSjtea/DanielSjtea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
