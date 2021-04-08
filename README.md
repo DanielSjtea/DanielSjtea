@@ -7,9 +7,9 @@ I am Daniel and I'm always on the lookout for learning opportunities and experie
 
 ### About Me:
 - Penultimate year student at [National University of Singapore](https://www.nus.edu.sg/)
-- Currently pursuing a Bachelors in Data Science and Analytics (Honours)
+- 🌱 Currently pursuing a Bachelors in Data Science and Analytics (Honours)
 - Product Manager Intern at [Shopee](https://sg.linkedin.com/company/shopee) (till Early May 2021)
-- Founder and Lead Programmer of [Sliced Bread Studios](https://play.google.com/store/apps/developer?id=Sliced+Bread+Studios)
+- 🔭 Founder and Lead Programmer of [Sliced Bread Studios](https://play.google.com/store/apps/developer?id=Sliced+Bread+Studios)
 
 ### Programming Languages:
 - Python
