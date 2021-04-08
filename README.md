@@ -1,5 +1,5 @@
-### Hellos! I'm Daniel! 👋😄
-
+### Hellos! I'm Daniel! 👋
+[![Linkedin: daniel-seah](https://img.shields.io/badge/-daniel-seah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-seah/)](https://www.linkedin.com/in/daniel-seah/)
 
 <!--
 **DanielSjtea/DanielSjtea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
