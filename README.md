@@ -1,4 +1,4 @@
-## Hellos! I'm Daniel! 👋
+## Hello there! I'm Daniel! 👋
 
 Thanks for stopping by and I hope your time here will be worthwhile!
 
