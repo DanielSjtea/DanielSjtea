@@ -11,7 +11,7 @@ I am Daniel, currently located in Singapore, and I'm always on the lookout for l
 ### About Me:
 - **Penultimate year** student at [National University of Singapore](https://www.nus.edu.sg/)
 - 🌱 Currently pursuing a **Bachelors in Data Science and Analytics (Honours)**
-- **Product Management Intern** at [Shopee](https://sg.linkedin.com/company/shopee) (till Early May 2021)
+- **Ex-Product Management Intern** at [Shopee](https://sg.linkedin.com/company/shopee) (Jan - May 2021)
 - 🔭 **Founder and Lead Programmer** of [Sliced Bread Studios](https://play.google.com/store/apps/developer?id=Sliced+Bread+Studios)
 
 ### Programming Languages:
