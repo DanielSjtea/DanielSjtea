@@ -19,6 +19,7 @@ I am Daniel, currently located in Singapore, and I'm always on the lookout for l
 - R
 - Java
 - Flutter (Dart)
+- C# in Unity
 - SQL (PostgreSQL)
 
 ### Skills:
