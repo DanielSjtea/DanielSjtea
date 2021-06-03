@@ -6,7 +6,7 @@ I am Daniel, currently located in Singapore, and I'm always on the lookout for l
 
 📫 Feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/daniel-seah/)
 
-**Currently looking for a Summer Internship (May-August 2021) in Data Science or Data Analytics**
+**Currently looking for a 6 Month Internship (Nov 2021 - May 2022) in Data Science, Machine Learning or Deep Learning**
 
 ### About Me:
 - **Penultimate year** student at [National University of Singapore](https://www.nus.edu.sg/)
