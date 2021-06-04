@@ -23,10 +23,11 @@ I am Daniel, currently located in Singapore, and I'm always on the lookout for l
 - SQL (PostgreSQL)
 
 ### Skills:
-- Computer Vision using CNN
-- Natural Language Processing using NLTK
+- Deep Learning
+- Natural Language Processing
 - Data Visualisation in Tableau
 - Data Structures and Algorithms
+- Computer Vision using CNN
 - Non-Convex Optimization
 
 <!--
