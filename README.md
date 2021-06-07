@@ -30,7 +30,7 @@ I am Daniel, currently located in Singapore, and I'm always on the lookout for l
 - Computer Vision using CNN
 - Non-Convex Optimization
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsjtea&show_icons=true&theme=dracula)
+// ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsjtea&show_icons=true&theme=dracula)
 
 
 <!--
