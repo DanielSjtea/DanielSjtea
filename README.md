@@ -4,10 +4,6 @@ Thanks for stopping by and I hope your time here will be worthwhile!
 
 I am Daniel, currently located in Singapore, and I'm always on the lookout for learning opportunities and experiences to expand my horizons. Trained in Data Science and Analytics, I seek to specialise in the areas of Computer Vision and Natural Language Processing, whilst still remaining highly interested in the analyst side of things. Regardless of industry or field of study, I am always motivated and passionate to learn as much as I can!
 
-📫 Feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/daniel-seah/)
-
-**Currently looking for a 6 Month Internship (Nov 2021 - May 2022) in Data Science, Machine Learning or Deep Learning**
-
 ### About Me:
 - **Penultimate year** student at [National University of Singapore](https://www.nus.edu.sg/)
 - 🌱 Currently pursuing a **Bachelors in Data Science and Analytics (Honours)**
