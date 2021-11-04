@@ -2,8 +2,6 @@
 
 Thanks for stopping by and I hope your time here will be worthwhile!
 
-I am Daniel, currently located in Singapore, and I'm always on the lookout for learning opportunities and experiences to expand my horizons. Trained in Data Science and Analytics, I seek to specialise in the areas of Computer Vision and Natural Language Processing, whilst still remaining highly interested in the analyst side of things. Regardless of industry or field of study, I am always motivated and passionate to learn as much as I can!
-
 ### About Me:
 - **Final year** student at National University of Singapore (NUS)
 - 🌱 Currently pursuing a **Bachelors in Data Science and Analytics (Honours)**
@@ -16,7 +14,7 @@ I am Daniel, currently located in Singapore, and I'm always on the lookout for l
 - Java
 - Flutter (Dart)
 - C# in Unity
-- SQL (PostgreSQL)
+- SQL
 
 ### Skills:
 - Deep Learning
@@ -27,6 +25,8 @@ I am Daniel, currently located in Singapore, and I'm always on the lookout for l
 - Non-Convex Optimization
 
 <!--
+I am Daniel, currently located in Singapore, and I'm always on the lookout for learning opportunities and experiences to expand my horizons. Trained in Data Science and Analytics, I seek to specialise in the areas of Computer Vision and Natural Language Processing, whilst still remaining highly interested in the analyst side of things. Regardless of industry or field of study, I am always motivated and passionate to learn as much as I can!
+
 **DanielSjtea/DanielSjtea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
