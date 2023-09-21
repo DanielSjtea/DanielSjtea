@@ -3,8 +3,8 @@
 Thanks for stopping by and I hope your time here will be worthwhile!
 
 ### About Me:
-- **Final year** student at National University of Singapore (NUS)
-- 🌱 Currently pursuing a **Bachelors in Data Science and Analytics (Honours)**
+- 🌱 Graduate from the National University of Singapore (NUS) with a **Bachelors in Data Science and Analytics (Honours)**
+- 🤔 Currently working as a Data Scientist in Security
 - 🔭 I make apps for fun - [Sliced Bread Studios](https://play.google.com/store/apps/developer?id=Sliced+Bread+Studios)
 
 
